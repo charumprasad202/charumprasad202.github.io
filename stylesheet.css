@@ -1,0 +1,42 @@
+/* Apply styles to the h1 tag */
+h1 {
+    color: #333;
+    font-size: 40px;
+  }
+  
+  /* Create a class and apply it to two elements */
+  .my-class {
+    font-weight: bold;
+    color: blue;
+  }
+  
+  /* Apply styles to the class */
+  .my-class {
+    text-decoration: underline;
+  }
+  
+  /* Create an id and apply it to an element */
+  #about {
+    background-color: #eee;
+    padding: 20px;
+  }
+  
+  /* Apply styles to the a tag when hovering over it */
+  a:hover {
+    color: red;
+  }
+  
+  /* Change two box model properties of the main tag */
+  main {
+    margin: 20px auto;
+    padding: 40px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  /* Add styles to the image */
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  
