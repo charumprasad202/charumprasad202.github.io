@@ -7,7 +7,7 @@ h1 {
   /* Create a class and apply it to two elements */
   .my-class {
     font-weight: bold;
-    color: blue;
+    color: rgb(80, 28, 164);
   }
   
   /* Apply styles to the class */
